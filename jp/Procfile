@@ -1,1 +1,2 @@
 web: gunicorn jp.wsgi
+pip install -r requirements.txt
